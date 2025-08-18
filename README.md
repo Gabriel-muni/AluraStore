@@ -10,6 +10,7 @@ Calificación promedio de la tienda
 Productos más y menos vendidos
 Envío promedio por tienda
 Recomendaciones
+
 Importación de datos
 Se cargaron los datos de cuatro archivos CSV (tienda_1.csv, tienda_2.csv, tienda_3.csv, tienda_4.csv) en DataFrames de pandas. También se concatenaron los DataFrames en uno solo para análisis generales.
 
@@ -28,5 +29,5 @@ Se identificaron los 5 productos con mayores y menores ingresos por ventas en ca
 Envío promedio por tienda
 Se calculó el costo de envío promedio por tienda para analizar los costos asociados a la logística.
 
-Próximos pasos
-Basado en este análisis, se procederá a generar un informe final con recomendaciones para el Sr. Juan sobre a qué tienda debería vender, considerando todos los factores analizados.
+Recomendaciones
+Basado en este análisis, se generó un informe final con recomendaciones para el Sr. Juan sobre qué tienda debería vender, considerando todos los factores analizados anteriormente.
